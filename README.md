@@ -21,4 +21,4 @@ This sample is using a virtual proxy.
  
 ## This Project
  
-We can also run `TestDrive` to see the proxy in action.
+We can run [TestDrive](https://github.com/amajor/TeaImageProxy/blob/main/src/main/java/proxy/TestDrive.java) to see the proxy in action.
