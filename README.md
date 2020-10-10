@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/amajor/TeaImageProxy.svg?branch=main)](https://travis-ci.com/amajor/TeaImageProxy)
+
 # TeaImageProxy
 A simple sample of the proxy pattern.
  
